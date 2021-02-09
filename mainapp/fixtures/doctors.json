@@ -1,0 +1,11 @@
+[
+    {
+        "model": "mainapp.doctors",
+        "pk": 1,
+        "fields": {
+            "name": "Евгения",
+            "last_name": "Иконостасова",
+            "phone": "+7-888-888-8888"
+        }
+    }
+]
